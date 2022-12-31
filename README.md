@@ -12,9 +12,10 @@ Layout moderno que conta com 3 páginas integradas entre si (principal, produtos
 - `CSS`: O CSS tem papel de estilizar a página através de propriedades como text-align; color; font-family; Além de imagens que complementam o estilo da pagina.  
 
 ## 📁 Acesso ao projeto
-Nesse repositório você tem acesso aos có1digos HTML e CSS para o desenvolvimento desse projeto.
+Nesse repositório você tem acesso aos códigos HTML e CSS para o desenvolvimento desse projeto.
 
 ## 🛠️ Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
-
+link: file:///Users/lais/Desktop/Alura/WebBarbearia/index.html
+ 
